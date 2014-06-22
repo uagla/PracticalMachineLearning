@@ -1,5 +1,5 @@
 Prediction of Classification of Physical Movement with Accelometer Data. 
-=======================================================================
+========================================================================
 
 ## Executive summary
 
